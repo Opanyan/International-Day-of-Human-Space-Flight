@@ -6,9 +6,10 @@ body {
     background: no-repeat #eff0f8 url(space3.png);
     background-size: cover;
     font-size: 25px;
-    margin: 0%;
+    margin: 0px;
     color: #fdfeff;
-    padding: 2px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     /*--border: 1px solid #1e2242;--*/
     /*--border-bottom: solid 1px #272c53;--*/
 }
@@ -41,6 +42,7 @@ body {
     text-align: center;
     font-family: Arial Black;
     font-size: 30px;
+    padding: 20px;
 }
 .back-block {
     margin: auto 10%;
@@ -54,20 +56,16 @@ body {
     font-size: 19px;
     margin:0%;
     color: #fdfeff;
-    padding: 20px;
+    padding: 0px;
     font-family: Andale Mono, monospace;
-}
-.gall-cont {
-    margin-left: -5px;
-    margin-right: -5px;
 }
 .img-cont {
     float: left; 
 }
 .img-cont-1{ 
     margin-bottom: 10px;
-    margin-right: 18%;
-    width: 15%;
+    margin-right: 20%;
+    width: 13%;
     height: 15%;
 }
 .img-tn {
@@ -76,8 +74,8 @@ body {
     display: block;
 }
 img {
-    height: 250px;
-    width: 400px;
+    height: 240px;
+    width: 380px;
 }
 .sizecontrol {
     text-align: left;
